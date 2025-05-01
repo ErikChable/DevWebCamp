@@ -21,9 +21,8 @@ Este proyecto es una plataforma de conferencias desarrollada en PHP y MVC puro.
 ## 💳 Pruebas con PayPal Sandbox
 
 Para probar el proceso de compra, puedes usar la siguiente cuenta de **sandbox** de PayPal:
-
-Correo: sb-skex740222637@personal.example.com
-Contraseña: =f@4fpA!
+**Correo:** sb-skex740222637@personal.example.com
+**Contraseña:** =f@4fpA!
 
 > ⚠️ Este usuario está en entorno sandbox y no realiza pagos reales. Puedes crear más cuentas desde [PayPal Developer](https://developer.paypal.com/).
 
